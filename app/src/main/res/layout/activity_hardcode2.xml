@@ -26,7 +26,8 @@
         android:layout_alignParentStart="true"
         android:hint="@string/hardcode_enter"
         android:textAlignment="center"
-        android:inputType="text" />
+        android:inputType="text"
+        android:gravity="center_horizontal" />
 
     <Button
         android:layout_width="wrap_content"

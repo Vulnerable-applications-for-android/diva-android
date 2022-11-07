@@ -30,7 +30,8 @@
         android:hint="@string/aci3_enterpin"
         android:textAlignment="center"
         android:inputType="numberPassword"
-        android:maxLength="4" />
+        android:maxLength="4"
+        android:gravity="center_horizontal" />
 
     <Button
         android:layout_width="wrap_content"

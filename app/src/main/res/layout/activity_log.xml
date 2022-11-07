@@ -29,7 +29,8 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:hint="@string/log_enter"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
 
     <Button
         android:layout_width="wrap_content"
